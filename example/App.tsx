@@ -3,7 +3,7 @@ import {StyleSheet, Text, View} from "react-native";
 import DatePicker from "@hoadv/react-native-date-picker";
 
 export default function App() {
-    const [date, setDate] = useState();
+    const [date, setDate] = useState(new Date());
 
     return (
         <View style={styles.container}>
