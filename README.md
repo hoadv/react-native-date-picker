@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <a href="https://snack.expo.io/@checkcompany/063372">🎯 Try component at snack.expo.io</a>
+    <a href="https://snack.expo.dev/@hoavd106/react-native-date-picker">🎯 Try component at snack.expo.io</a>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 React Native customizable date picker component for iOS and Android. Designed using ScrollView. Looks identical on all
-devices.
+devices. Support more month formats (January, Jan...)
 
 ## 💻 Example
 <img style="margin-top: 10px" src="https://github.com/DieTime/react-native-date-picker/raw/master/assets/example.gif" height="400" alt="component-gif-preview"/>
