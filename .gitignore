@@ -1,0 +1,8 @@
+node_modules
+yarn.lock
+.idea
+
+example/node_modules
+example/.expo
+example/yarn.lock
+example/.idea
