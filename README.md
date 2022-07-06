@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DieTime/react-native-date-picker/raw/master/assets/logo.png" style="margin-bottom: -30px" width="320"/>
+  <img src="https://github.com/hoadv/react-native-date-picker/blob/master/assets/logo.png" style="margin-bottom: -30px" width="320"/>
 </p>
 
 <p align="center">
