@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 declare const DatePicker: React.FC<DatePickerProps>;
 export interface DatePickerProps {
     value: Date | null | undefined;
@@ -26,7 +26,7 @@ export interface DateBlockProps {
     markHeight?: number;
     markWidth?: number | string;
     fadeColor?: string;
-    title: string;
+    titleMap: any | null;
     onChange(type: string, digit: number): void;
 }
 export default DatePicker;

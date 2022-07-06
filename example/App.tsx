@@ -1,10 +1,9 @@
 import React, {useState} from "react";
 import {StyleSheet, Text, View} from "react-native";
-
 import DatePicker from "@hoadv/react-native-date-picker";
 
 export default function App() {
-    const [date, setDate] = useState<Date | null>();
+    const [date, setDate] = useState();
 
     return (
         <View style={styles.container}>
@@ -27,11 +26,11 @@ export default function App() {
             </View>
             <DatePicker
                 value={date}
-                width={"80%"}
+                width={"95%"}
                 fontSize={19}
                 height={170}
-                onChange={(value: Date) => setDate(value)}
-                format={"yyyy-mm-dd"}
+                onChange={(value) => setDate(value)}
+                format="yyyy-MM-dd"
             />
         </View>
     );
@@ -62,3 +61,4 @@ const styles = StyleSheet.create({
         fontSize: 20,
     }
 });
+
