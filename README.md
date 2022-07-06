@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://github.com/hoadv/react-native-date-picker/blob/master/assets/logo.png" style="margin-bottom: -30px" width="320"/>
 </p>
+<p align="center">
+  <img src="https://github.com/hoadv/react-native-date-picker/blob/master/assets/logo-android.png" style="margin-bottom: -30px" width="320"/>
+</p>
 
 <p align="center">
     <a href="https://snack.expo.dev/@hoavd106/react-native-date-picker">🎯 Try component at snack.expo.io</a>
